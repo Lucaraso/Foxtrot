@@ -7,4 +7,4 @@ The languages and applications used for this project were C# to create the scrip
 To play the game, simply click on the green "Code" button, and when prompted, download the zip folder and extract it to wherever you would like on your PC. The file you need to open is the application file under the name "FoxTrot".
 
 # Screenshots
-![Alt Text]("C:\Users\lucar\OneDrive\Documents\Foxtrot Images\fox1.png")
+![Alt Text](Images/fox1.png)
